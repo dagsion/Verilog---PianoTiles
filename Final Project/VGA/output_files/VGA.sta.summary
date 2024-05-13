@@ -1,0 +1,213 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'audio:a|PS2_Controller:c1|Altera_UP_PS2_Data_In:PS2_Data_In|received_data_en'
+Slack : -5.830
+TNS   : -97.575
+
+Type  : Slow 1100mV 85C Model Setup 'CLOCK_50'
+Slack : -4.989
+TNS   : -87.590
+
+Type  : Slow 1100mV 85C Model Setup 'audio:a|avconf:avc|mI2C_CTRL_CLK'
+Slack : -2.206
+TNS   : -124.057
+
+Type  : Slow 1100mV 85C Model Setup 'v|VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 34.538
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'CLOCK_50'
+Slack : -0.014
+TNS   : -0.014
+
+Type  : Slow 1100mV 85C Model Hold 'v|VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.403
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'audio:a|avconf:avc|mI2C_CTRL_CLK'
+Slack : 0.441
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'audio:a|PS2_Controller:c1|Altera_UP_PS2_Data_In:PS2_Data_In|received_data_en'
+Slack : 3.232
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'audio:a|avconf:avc|mI2C_CTRL_CLK'
+Slack : -0.394
+TNS   : -35.105
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'audio:a|PS2_Controller:c1|Altera_UP_PS2_Data_In:PS2_Data_In|received_data_en'
+Slack : -0.394
+TNS   : -10.004
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'v|VGA|mypll|altpll_component|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 8.579
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'v|VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 18.757
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'audio:a|PS2_Controller:c1|Altera_UP_PS2_Data_In:PS2_Data_In|received_data_en'
+Slack : -5.936
+TNS   : -100.105
+
+Type  : Slow 1100mV 0C Model Setup 'CLOCK_50'
+Slack : -4.954
+TNS   : -77.170
+
+Type  : Slow 1100mV 0C Model Setup 'audio:a|avconf:avc|mI2C_CTRL_CLK'
+Slack : -2.151
+TNS   : -120.351
+
+Type  : Slow 1100mV 0C Model Setup 'v|VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 34.591
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'CLOCK_50'
+Slack : -0.534
+TNS   : -0.534
+
+Type  : Slow 1100mV 0C Model Hold 'v|VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.383
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'audio:a|avconf:avc|mI2C_CTRL_CLK'
+Slack : 0.454
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'audio:a|PS2_Controller:c1|Altera_UP_PS2_Data_In:PS2_Data_In|received_data_en'
+Slack : 3.387
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'audio:a|avconf:avc|mI2C_CTRL_CLK'
+Slack : -0.394
+TNS   : -34.694
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'audio:a|PS2_Controller:c1|Altera_UP_PS2_Data_In:PS2_Data_In|received_data_en'
+Slack : -0.394
+TNS   : -10.068
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'v|VGA|mypll|altpll_component|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 8.559
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'v|VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 18.741
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'CLOCK_50'
+Slack : -4.071
+TNS   : -61.521
+
+Type  : Fast 1100mV 85C Model Setup 'audio:a|PS2_Controller:c1|Altera_UP_PS2_Data_In:PS2_Data_In|received_data_en'
+Slack : -3.080
+TNS   : -51.292
+
+Type  : Fast 1100mV 85C Model Setup 'audio:a|avconf:avc|mI2C_CTRL_CLK'
+Slack : -0.994
+TNS   : -49.534
+
+Type  : Fast 1100mV 85C Model Setup 'v|VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 36.597
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'CLOCK_50'
+Slack : 0.139
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'audio:a|avconf:avc|mI2C_CTRL_CLK'
+Slack : 0.164
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'v|VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.230
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'audio:a|PS2_Controller:c1|Altera_UP_PS2_Data_In:PS2_Data_In|received_data_en'
+Slack : 1.696
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'audio:a|PS2_Controller:c1|Altera_UP_PS2_Data_In:PS2_Data_In|received_data_en'
+Slack : 0.042
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'audio:a|avconf:avc|mI2C_CTRL_CLK'
+Slack : 0.089
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'v|VGA|mypll|altpll_component|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 8.675
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'v|VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 18.879
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'CLOCK_50'
+Slack : -3.554
+TNS   : -46.546
+
+Type  : Fast 1100mV 0C Model Setup 'audio:a|PS2_Controller:c1|Altera_UP_PS2_Data_In:PS2_Data_In|received_data_en'
+Slack : -2.966
+TNS   : -49.684
+
+Type  : Fast 1100mV 0C Model Setup 'audio:a|avconf:avc|mI2C_CTRL_CLK'
+Slack : -0.863
+TNS   : -42.180
+
+Type  : Fast 1100mV 0C Model Setup 'v|VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 36.962
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'CLOCK_50'
+Slack : -0.246
+TNS   : -0.246
+
+Type  : Fast 1100mV 0C Model Hold 'audio:a|avconf:avc|mI2C_CTRL_CLK'
+Slack : 0.150
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'v|VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.205
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'audio:a|PS2_Controller:c1|Altera_UP_PS2_Data_In:PS2_Data_In|received_data_en'
+Slack : 1.704
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'audio:a|PS2_Controller:c1|Altera_UP_PS2_Data_In:PS2_Data_In|received_data_en'
+Slack : 0.059
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'audio:a|avconf:avc|mI2C_CTRL_CLK'
+Slack : 0.111
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'v|VGA|mypll|altpll_component|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 8.690
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'v|VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 18.879
+TNS   : 0.000
+
+------------------------------------------------------------

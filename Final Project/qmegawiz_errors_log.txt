@@ -1,0 +1,19 @@
+
+
+W:/Audio_Demo/Audio_Controller/Audio_Clock.v
+
+Nov 27 08PM:22:52>: Error in CNX file format.
+
+Error messages are listed in file
+W:/Audio_Demo/Audio_Controller/Audio_Clock.cnxerr.
+
+Can't create the custom megafunction variation file(s)
+
+W:/Audio_Demo/Audio_Controller/Audio_Clock.v
+
+Nov 27 08PM:25:37>: Error in CNX file format.
+
+Error messages are listed in file
+W:/Audio_Demo/Audio_Controller/Audio_Clock.cnxerr.
+
+Can't create the custom megafunction variation file(s)
