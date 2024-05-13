@@ -7,4 +7,8 @@ This is the Piano Game designed using Hardware Description Language, Verilog. We
 
 # Demo
 
-https://github.com/dagsion/Verilog---PianoTiles/blob/main/IMG_2553.mov 
+
+https://github.com/dagsion/Verilog-PianoTiles/assets/117557771/7bca65c5-f546-4876-9e7c-7031ce1c4732
+
+
+*ps. I was trying to grow my beard*
