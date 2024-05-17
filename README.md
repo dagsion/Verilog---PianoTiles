@@ -9,4 +9,6 @@ This is the Piano Game designed using Hardware Description Language, Verilog. We
 
 https://github.com/dagsion/Verilog-PianoTiles/assets/117557771/14ce0b5d-e209-4a9c-97ec-9e69d5505fb8
 
+https://github.com/dagsion/Verilog-PianoTiles/assets/117557771/f4815075-f536-4f17-9712-9ceaa4384095
+
 *ps. I was trying to grow my beard*
